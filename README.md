@@ -1,5 +1,9 @@
-Hii !
-Im Atha Rahma, a Geophysics Student in Gadjah Mada University!
-Im from Bantul, Yogyakarta.
-Im interested in community dedication and oil gas company.
-U guys cun reach me on my social media : IG @atharahmaa
+<h1 align="center">Hi 👋, I'm Atha Rahma Novita</h1>
+- 🌱 I’m currently learning **geophysics!**
+
+- 📫 How to reach me **atha.rahma0902@mail.ugm.ac.id**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
